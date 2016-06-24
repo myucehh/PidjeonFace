@@ -1,0 +1,162 @@
+fileFormatVersion: 2
+guid: 9dd10db49991e4cd5b829d6401679d27
+timeCreated: 1466707319
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bamboo
+    100002: Bamboo_MeshPart0
+    100004: Bamboo_MeshPart1
+    100006: Bamboo_MeshPart2
+    100008: Blob
+    100010: Coral
+    100012: Face
+    100014: Face_Grass
+    100016: Face_MeshPart0
+    100018: Face_MeshPart1
+    100020: FacePatch
+    100022: Grass
+    100024: LilDicks
+    100026: Line
+    100028: //RootNode
+    100030: Stone_Disc
+    100032: Succulents
+    100034: Succulents_MeshPart0
+    100036: Succulents_MeshPart1
+    100038: Combined
+    100040: water
+    400000: Bamboo
+    400002: Bamboo_MeshPart0
+    400004: Bamboo_MeshPart1
+    400006: Bamboo_MeshPart2
+    400008: Blob
+    400010: Coral
+    400012: Face
+    400014: Face_Grass
+    400016: Face_MeshPart0
+    400018: Face_MeshPart1
+    400020: FacePatch
+    400022: Grass
+    400024: LilDicks
+    400026: Line
+    400028: //RootNode
+    400030: Stone_Disc
+    400032: Succulents
+    400034: Succulents_MeshPart0
+    400036: Succulents_MeshPart1
+    400038: Combined
+    400040: water
+    2300000: Bamboo_MeshPart0
+    2300002: Bamboo_MeshPart1
+    2300004: Bamboo_MeshPart2
+    2300006: Blob
+    2300008: Coral
+    2300010: Face_Grass
+    2300012: Face_MeshPart0
+    2300014: Face_MeshPart1
+    2300016: FacePatch
+    2300018: Grass
+    2300020: LilDicks
+    2300022: Line
+    2300024: Stone_Disc
+    2300026: Succulents_MeshPart0
+    2300028: Succulents_MeshPart1
+    2300030: water
+    3300000: Bamboo_MeshPart0
+    3300002: Bamboo_MeshPart1
+    3300004: Bamboo_MeshPart2
+    3300006: Blob
+    3300008: Coral
+    3300010: Face_Grass
+    3300012: Face_MeshPart0
+    3300014: Face_MeshPart1
+    3300016: FacePatch
+    3300018: Grass
+    3300020: LilDicks
+    3300022: Line
+    3300024: Stone_Disc
+    3300026: Succulents_MeshPart0
+    3300028: Succulents_MeshPart1
+    3300030: water
+    4300000: Blob
+    4300002: Face_MeshPart0
+    4300004: Face_MeshPart1
+    4300006: Coral
+    4300008: Line
+    4300010: FacePatch
+    4300012: Bamboo_MeshPart0
+    4300014: Bamboo_MeshPart1
+    4300016: Bamboo_MeshPart2
+    4300018: LilDicks
+    4300020: Grass
+    4300022: Stone_Disc
+    4300024: Succulents_MeshPart0
+    4300026: Succulents_MeshPart1
+    4300028: Face_Grass
+    4300030: water
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
